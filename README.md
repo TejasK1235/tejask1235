@@ -1,4 +1,4 @@
-![Wallpaper]([image_url](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif))
+![Wallpaper]([https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif])
 
 <h1>Hi there 👋</h1>
 <p>A Data Science / ML Engineer from India</p>
