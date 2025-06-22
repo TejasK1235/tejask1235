@@ -1,7 +1,6 @@
-![Header](./github-header-image(1).png)
 ![Wallpaper](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
 
-<h1>Hi there 👋</h1>
+<h1>Hi there []</h1>
 <p>A Data Science / ML Engineer from India</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
